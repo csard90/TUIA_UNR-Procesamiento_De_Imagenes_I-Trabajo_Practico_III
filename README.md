@@ -1,4 +1,13 @@
-# TUIA - TP1 Procesamiento de Imágenes I - TP3
+Fecha: 12/2023
+
+# Trabajo Práctico III - Procesamiento de Imagenes I - Tecnicatura Universitaria en Inteligencia Artifical (UNR)
+
+## Integrantes: 
+
+* DONNARUMMA, César Julián.
+* DEMARRE, Lucas.
+* MUSSI, Miguel.
+* MENESCALDI, Brisa
 
 ## Problema 1 – Cinco dados
 
